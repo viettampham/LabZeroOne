@@ -1,0 +1,38 @@
+﻿<link href="~/styles/bulma/css/bulma.min.css" rel="stylesheet" />
+
+
+<div class="layout layoutFixed">
+	<div class="login-form" style="width: 380px;padding: 20px;border: 1px solid #00d1b2;border-radius: 8px;">
+		<div class="logo" style="display:flex; justify-content:center; align-items:center;">
+			<img style="width: 86px;border-radius: 100px;" src="~/image/logo.png" />
+		</div>
+
+		<div class="block">
+			<label for="email">Email</label>
+			<input class="input is-primary" type="email" placeholder="x.d email@gmail.com" />
+		</div>
+		<div class="block">
+			<label>Password</label>
+			<input class="input is-primary" type="password" placeholder="********" />
+		</div>
+		<div class="block" style="display: flex;justify-content: space-evenly;align-items: center;">
+			<button class="button is-primary is-light">Registration</button>
+			<button class="button is-success">Sign in</button>
+		</div>
+	</div>
+</div>
+
+<style>
+	.layoutFixed {
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		right: 0;
+		left: 0;
+		height: 100%;
+		margin: auto;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+</style>

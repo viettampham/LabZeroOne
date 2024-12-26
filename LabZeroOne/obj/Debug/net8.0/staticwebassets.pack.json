@@ -1,0 +1,661 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LabZeroOne.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LabZeroOne.qz4xsm8gc2.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Image\\logo.png",
+      "PackagePath": "staticwebassets\\Image\\logo.png"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\LICENSE",
+      "PackagePath": "staticwebassets\\Styles\\bulma"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\README.md",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\README.md"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\bulma.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\bulma.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\css\\bulma.css",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\css\\bulma.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\css\\bulma.css.map",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\css\\bulma.css.map"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\css\\bulma.min.css",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\css\\bulma.min.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\css\\versions\\bulma-no-dark-mode.css",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\css\\versions\\bulma-no-dark-mode.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\css\\versions\\bulma-no-dark-mode.css.map",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\css\\versions\\bulma-no-dark-mode.css.map"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\css\\versions\\bulma-no-dark-mode.min.css",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\css\\versions\\bulma-no-dark-mode.min.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\css\\versions\\bulma-no-helpers-prefixed.css",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\css\\versions\\bulma-no-helpers-prefixed.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\css\\versions\\bulma-no-helpers-prefixed.css.map",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\css\\versions\\bulma-no-helpers-prefixed.css.map"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\css\\versions\\bulma-no-helpers-prefixed.min.css",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\css\\versions\\bulma-no-helpers-prefixed.min.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\css\\versions\\bulma-no-helpers.css",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\css\\versions\\bulma-no-helpers.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\css\\versions\\bulma-no-helpers.css.map",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\css\\versions\\bulma-no-helpers.css.map"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\css\\versions\\bulma-no-helpers.min.css",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\css\\versions\\bulma-no-helpers.min.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\css\\versions\\bulma-prefixed.min.css",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\css\\versions\\bulma-prefixed.min.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\css\\versions\\bulma-prefixed.min.css.map",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\css\\versions\\bulma-prefixed.min.css.map"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\css\\versions\\bulma-prefixed.min.min.css",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\css\\versions\\bulma-prefixed.min.min.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\package.json",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\package.json"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\_index.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\_index.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\base\\_index.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\base\\_index.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\base\\animations.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\base\\animations.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\base\\generic.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\base\\generic.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\base\\minireset.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\base\\minireset.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\base\\skeleton.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\base\\skeleton.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\components\\_index.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\components\\_index.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\components\\breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\components\\breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\components\\card.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\components\\card.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\components\\dropdown.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\components\\dropdown.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\components\\menu.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\components\\menu.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\components\\message.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\components\\message.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\components\\modal.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\components\\modal.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\components\\navbar.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\components\\navbar.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\components\\pagination.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\components\\pagination.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\components\\panel.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\components\\panel.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\components\\tabs.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\components\\tabs.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\elements\\_index.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\elements\\_index.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\elements\\block.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\elements\\block.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\elements\\box.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\elements\\box.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\elements\\button.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\elements\\button.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\elements\\content.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\elements\\content.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\elements\\delete.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\elements\\delete.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\elements\\icon.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\elements\\icon.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\elements\\image.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\elements\\image.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\elements\\loader.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\elements\\loader.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\elements\\notification.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\elements\\notification.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\elements\\progress.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\elements\\progress.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\elements\\table.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\elements\\table.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\elements\\tag.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\elements\\tag.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\elements\\title.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\elements\\title.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\form\\_index.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\form\\_index.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\form\\checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\form\\checkbox-radio.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\form\\file.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\form\\file.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\form\\input-textarea.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\form\\input-textarea.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\form\\select.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\form\\select.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\form\\shared.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\form\\shared.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\form\\tools.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\form\\tools.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\grid\\_index.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\grid\\_index.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\grid\\columns.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\grid\\columns.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\grid\\grid.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\grid\\grid.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\helpers\\_index.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\helpers\\_index.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\helpers\\aspect-ratio.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\helpers\\aspect-ratio.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\helpers\\border.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\helpers\\border.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\helpers\\color.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\helpers\\color.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\helpers\\flexbox.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\helpers\\flexbox.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\helpers\\float.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\helpers\\float.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\helpers\\gap.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\helpers\\gap.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\helpers\\other.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\helpers\\other.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\helpers\\overflow.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\helpers\\overflow.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\helpers\\position.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\helpers\\position.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\helpers\\spacing.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\helpers\\spacing.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\helpers\\typography.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\helpers\\typography.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\helpers\\visibility.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\helpers\\visibility.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\layout\\_index.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\layout\\_index.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\layout\\container.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\layout\\container.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\layout\\footer.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\layout\\footer.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\layout\\hero.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\layout\\hero.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\layout\\level.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\layout\\level.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\layout\\media.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\layout\\media.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\layout\\section.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\layout\\section.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\themes\\_index.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\themes\\_index.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\themes\\dark.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\themes\\dark.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\themes\\light.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\themes\\light.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\themes\\setup.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\themes\\setup.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\utilities\\_index.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\utilities\\_index.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\utilities\\controls.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\utilities\\controls.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\utilities\\css-variables.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\utilities\\css-variables.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\utilities\\derived-variables.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\utilities\\derived-variables.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\utilities\\extends.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\utilities\\extends.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\utilities\\functions.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\utilities\\functions.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\utilities\\initial-variables.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\utilities\\initial-variables.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\sass\\utilities\\mixins.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\sass\\utilities\\mixins.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\versions\\bulma-no-dark-mode.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\versions\\bulma-no-dark-mode.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\versions\\bulma-no-helpers-prefixed.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\versions\\bulma-no-helpers-prefixed.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\versions\\bulma-no-helpers.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\versions\\bulma-no-helpers.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\versions\\bulma-prefixed.scss",
+      "PackagePath": "staticwebassets\\Styles\\bulma\\versions\\bulma-prefixed.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\css\\CustomCss.css",
+      "PackagePath": "staticwebassets\\css\\CustomCss.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LabZeroOne.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LabZeroOne.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LabZeroOne.props",
+      "PackagePath": "build\\LabZeroOne.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LabZeroOne.props",
+      "PackagePath": "buildMultiTargeting\\LabZeroOne.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LabZeroOne.props",
+      "PackagePath": "buildTransitive\\LabZeroOne.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
