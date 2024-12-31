@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\Image\\logo.png"
     },
     {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Scripts\\jquery-3.7.1.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-3.7.1.min.js"
+    },
+    {
       "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\LICENSE",
       "PackagePath": "staticwebassets\\Styles\\bulma"
     },

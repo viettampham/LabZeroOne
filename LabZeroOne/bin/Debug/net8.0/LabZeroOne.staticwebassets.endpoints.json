@@ -167,6 +167,88 @@
       ]
     },
     {
+      "Route": "Scripts/jquery-3.7.1.min.js",
+      "AssetFile": "Scripts/jquery-3.7.1.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105298"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v0i6w+udnvWn9cBpdSAOCN6C2t48t9T7B2sZ/3xCpIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 04:55:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v0i6w+udnvWn9cBpdSAOCN6C2t48t9T7B2sZ/3xCpIQ="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/jquery-3.7.1.min.xowj75vshv.js",
+      "AssetFile": "Scripts/jquery-3.7.1.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105298"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v0i6w+udnvWn9cBpdSAOCN6C2t48t9T7B2sZ/3xCpIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 04:55:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xowj75vshv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v0i6w+udnvWn9cBpdSAOCN6C2t48t9T7B2sZ/3xCpIQ="
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/jquery-3.7.1.min.js"
+        }
+      ]
+    },
+    {
       "Route": "Styles/bulma/LICENSE",
       "AssetFile": "Styles/bulma/LICENSE",
       "Selectors": [],

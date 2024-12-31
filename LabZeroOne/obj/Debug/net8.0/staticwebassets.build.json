@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8RQ3aVJnKGsME5ouvA4px3B7guBgWkmtwFI+FYWurGg=",
+  "Hash": "wvMKkkrgBnS7E0gXhqfzHWApauRQyRUJ8DCOZMF24O0=",
   "Source": "LabZeroOne",
   "BasePath": "_content/LabZeroOne",
   "Mode": "Default",
@@ -1359,6 +1359,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Scripts\\jquery-3.7.1.min.js",
+      "SourceId": "LabZeroOne",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\",
+      "BasePath": "_content/LabZeroOne",
+      "RelativePath": "Scripts/jquery-3.7.1.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xowj75vshv",
+      "Integrity": "v0i6w+udnvWn9cBpdSAOCN6C2t48t9T7B2sZ/3xCpIQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\jquery-3.7.1.min.js"
     },
     {
       "Identity": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\bulma.scss",
@@ -8623,6 +8644,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/jquery-3.7.1.min.js",
+      "AssetFile": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Scripts\\jquery-3.7.1.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105298"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v0i6w+udnvWn9cBpdSAOCN6C2t48t9T7B2sZ/3xCpIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 04:55:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v0i6w+udnvWn9cBpdSAOCN6C2t48t9T7B2sZ/3xCpIQ="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/jquery-3.7.1.min.xowj75vshv.js",
+      "AssetFile": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Scripts\\jquery-3.7.1.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105298"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v0i6w+udnvWn9cBpdSAOCN6C2t48t9T7B2sZ/3xCpIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 04:55:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xowj75vshv"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/jquery-3.7.1.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v0i6w+udnvWn9cBpdSAOCN6C2t48t9T7B2sZ/3xCpIQ="
         }
       ]
     },

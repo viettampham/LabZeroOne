@@ -1,7 +1,14 @@
+using LabZeroOne.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddDbContext<ZeroOneContext>(option => {
+    option.UseSqlServer(builder.Configuration.GetConnectionString("ZeroOne"));
+});
 builder.Services.AddControllersWithViews();
+
 
 var app = builder.Build();
 

@@ -756,6 +756,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1117"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 23 Dec 2024 14:42:59 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/LabZeroOne/Scripts/jquery-3.7.1.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Scripts\jquery-3.7.1.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-v0i6w\u002BudnvWn9cBpdSAOCN6C2t48t9T7B2sZ/3xCpIQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"105298"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022v0i6w\u002BudnvWn9cBpdSAOCN6C2t48t9T7B2sZ/3xCpIQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 31 Dec 2024 04:55:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/LabZeroOne/Scripts/jquery-3.7.1.min.xowj75vshv.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Scripts\jquery-3.7.1.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xowj75vshv"},{"Name":"integrity","Value":"sha256-v0i6w\u002BudnvWn9cBpdSAOCN6C2t48t9T7B2sZ/3xCpIQ="},{"Name":"label","Value":"_content/LabZeroOne/Scripts/jquery-3.7.1.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"105298"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022v0i6w\u002BudnvWn9cBpdSAOCN6C2t48t9T7B2sZ/3xCpIQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 31 Dec 2024 04:55:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/LabZeroOne/Styles/bulma/bulma.qvgqohjmzl.scss">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Styles\bulma\bulma.scss'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

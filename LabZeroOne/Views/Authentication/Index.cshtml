@@ -1,23 +1,54 @@
 ﻿<link href="~/styles/bulma/css/bulma.min.css" rel="stylesheet" />
-
+<script src="~/scripts/jquery-3.7.1.min.js"></script>
 
 <div class="layout layoutFixed">
-	<div class="login-form" style="width: 380px;padding: 20px;border: 1px solid #00d1b2;border-radius: 8px;">
+	<div id="loginform" class="login-form" style="width: 380px;padding: 20px;border: 1px solid #00d1b2;border-radius: 8px;">
 		<div class="logo" style="display:flex; justify-content:center; align-items:center;">
 			<img style="width: 86px;border-radius: 100px;" src="~/image/logo.png" />
 		</div>
 
 		<div class="block">
 			<label for="email">Email</label>
-			<input class="input is-primary" type="email" placeholder="x.d email@gmail.com" />
+			<input id="email" class="input is-primary" type="email" placeholder="x.d email@gmail.com" />
 		</div>
 		<div class="block">
 			<label>Password</label>
-			<input class="input is-primary" type="password" placeholder="********" />
+			<input id="password" class="input is-primary" type="password" placeholder="********" />
 		</div>
 		<div class="block" style="display: flex;justify-content: space-evenly;align-items: center;">
-			<button class="button is-primary is-light">Registration</button>
-			<button class="button is-success">Sign in</button>
+			<button onclick="onToggle()" class="button is-primary is-light">Registration</button>
+			<button onclick="onAuthen()" class="button is-success">Sign in</button>
+		</div>
+	</div>
+
+	<div id="regisForm" class="login-form" style="width: 380px;padding: 20px;border: 1px solid #00d1b2;border-radius: 8px; display:none">
+		<div class="logo" style="display:flex; justify-content:center; align-items:center;">
+			<img style="width: 86px;border-radius: 100px;" src="~/image/logo.png" />
+		</div>
+
+		<div class="block">
+			<label for="Name">Họ tên</label>
+			<input id="name" class="input is-primary" type="text" placeholder="Nguyễn Văn A" />
+		</div>
+		<div class="block">
+			<label for="email">Email</label>
+			<input id="email" class="input is-primary" type="email" placeholder="x.d email@gmail.com" />
+		</div>
+		<div class="block">
+			<label>Password</label>
+			<input id="password" class="input is-primary" type="password" placeholder="********" />
+		</div>
+		<div class="block">
+			<label>Password Confirm</label>
+			<input id="password" class="input is-primary" type="password" placeholder="********" />
+		</div>
+		<div class="block">
+			<label>Phone Number</label>
+			<input id="phoneNumber" class="input is-primary" type="text" placeholder="012345...." />
+		</div>
+		<div class="block" style="display: flex;justify-content: space-evenly;align-items: center;">
+			<button onclick="onToggle()" class="button is-success is-light">Sign in</button>
+			<button onclick="onRegis()" class="button is-success ">Registration</button>
 		</div>
 	</div>
 </div>
@@ -36,3 +67,48 @@
 		align-items: center;
 	}
 </style>
+
+<script>
+
+	var loginForm = document.getElementById('loginform');
+	var regisForm = document.getElementById('regisForm');
+
+	var isFormSign = true;
+	function onToggle(){
+		var loginForm = document.getElementById('loginform');
+		var regisForm = document.getElementById('regisForm');
+		isFormSign = !isFormSign;
+		if (isFormSign){
+			loginForm.style.display = 'block';
+			regisForm.style.display = 'none';
+		}else {
+		loginForm.style.display = 'none';
+			regisForm.style.display = 'block';
+		}
+	}
+
+
+
+
+	function onAuthen(){
+		var email = document.getElementById('email').value;
+		var password = document.getElementById('password').value;
+		console.log(email,password);
+		$.ajax({
+			url: 'Authentication/Signin',
+			type: 'GET',
+			dataType: 'json',
+			data:{
+				email: email,
+				password:password
+			},
+			success: function(response) {
+				console.log(response);
+				localStorage.setItem('userInfo',JSON.stringify(response.JsonData[0]));
+			},
+			error: function(xhr, status, error) {
+				console.log('Lỗi:', error);
+			}
+		})
+	}
+</script>
