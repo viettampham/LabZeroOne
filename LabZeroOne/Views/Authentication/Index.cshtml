@@ -1,5 +1,7 @@
 ﻿<link href="~/styles/bulma/css/bulma.min.css" rel="stylesheet" />
 <script src="~/scripts/jquery-3.7.1.min.js"></script>
+<script src="~/scripts/toastr.min.js"></script>
+<link href="~/styles/toastr.min.css" rel="stylesheet" />
 
 <div class="layout layoutFixed">
 	<div id="loginform" class="login-form" style="width: 380px;padding: 20px;border: 1px solid #00d1b2;border-radius: 8px;">
@@ -28,23 +30,23 @@
 
 		<div class="block">
 			<label for="Name">Họ tên</label>
-			<input id="name" class="input is-primary" type="text" placeholder="Nguyễn Văn A" />
+			<input id="nameRegis" class="input is-primary" type="text" placeholder="Nguyễn Văn A" />
 		</div>
 		<div class="block">
 			<label for="email">Email</label>
-			<input id="email" class="input is-primary" type="email" placeholder="x.d email@gmail.com" />
+			<input id="emailRegis" class="input is-primary" type="email" placeholder="x.d email@gmail.com" />
 		</div>
 		<div class="block">
 			<label>Password</label>
-			<input id="password" class="input is-primary" type="password" placeholder="********" />
+			<input id="passwordRegis" class="input is-primary" type="password" placeholder="********" />
 		</div>
 		<div class="block">
 			<label>Password Confirm</label>
-			<input id="password" class="input is-primary" type="password" placeholder="********" />
+			<input id="repasswordRegis" class="input is-primary" type="password" placeholder="********" />
 		</div>
 		<div class="block">
 			<label>Phone Number</label>
-			<input id="phoneNumber" class="input is-primary" type="text" placeholder="012345...." />
+			<input id="phoneNumberRegis" class="input is-primary" type="text" placeholder="012345...." />
 		</div>
 		<div class="block" style="display: flex;justify-content: space-evenly;align-items: center;">
 			<button onclick="onToggle()" class="button is-success is-light">Sign in</button>
@@ -103,12 +105,67 @@
 				password:password
 			},
 			success: function(response) {
-				console.log(response);
-				localStorage.setItem('userInfo',JSON.stringify(response.JsonData[0]));
+				if (response.Status == "SUCCESS"){
+					localStorage.setItem('userInfo',JSON.stringify(response.JsonData[0]));
+					window.location.href = '@Url.Action("Index", "Home")';
+				}else if (response.Status == "WARNING"){
+					toastr.warning(response.Message, "Cảnh báo", {timeOut: 3000});
+				}else {
+					toastr.error(response.Message, "Cảnh báo", {timeOut: 3000});
+				}
+				
 			},
 			error: function(xhr, status, error) {
 				console.log('Lỗi:', error);
 			}
 		})
+	}
+
+	function onRegis(){
+		var obj = {};
+		var UserName = document.getElementById('nameRegis').value;
+		var Password = document.getElementById('passwordRegis').value;
+		var Email = document.getElementById('emailRegis').value;
+		var PhoneNumber = document.getElementById('phoneNumberRegis').value;
+		var RePasswordRegis = document.getElementById('repasswordRegis').value;
+
+
+		if (Password != RePasswordRegis){
+			toastr.warning("Vui lòng nhập lại password!", "Cảnh báo", {timeOut: 3000});
+			return;
+		}
+
+
+		console.log(obj);
+		$.ajax({
+			url: 'Authentication/Registration',
+			type: 'POST',
+			dataType: 'json',
+			contentType: 'application/json',
+			data:JSON.stringify({
+				UserName: UserName,
+				Password: Password,
+				Email: Email,
+				PhoneNumber: PhoneNumber
+			}),
+			success: function(response) {
+				console.log(response);
+				if (response.Status == "SUCCESS"){
+					toastr.success(response.Message, "Thành công", {timeOut: 3000});
+					setTimeout(()=>{
+					  //window.location.href = '@Url.Action("Index", "Authentication")';
+					},3000)
+				}else if (response.Status == "WARING"){
+					toastr.warning(response.Message, "Cảnh báo", {timeOut: 3000});
+				}else {
+					toastr.error(response.Message, "Lỗi", {timeOut: 3000});
+				}
+			},
+			error: function(xhr, status, error) {
+				console.log('Lỗi:', error);
+			}
+		})
+
+
 	}
 </script>

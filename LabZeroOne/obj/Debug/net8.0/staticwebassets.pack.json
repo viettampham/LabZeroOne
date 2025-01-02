@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\Scripts\\jquery-3.7.1.min.js"
     },
     {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Scripts\\toastr.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\toastr.min.js"
+    },
+    {
       "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\LICENSE",
       "PackagePath": "staticwebassets\\Styles\\bulma"
     },
@@ -395,6 +399,10 @@
     {
       "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\bulma\\versions\\bulma-prefixed.scss",
       "PackagePath": "staticwebassets\\Styles\\bulma\\versions\\bulma-prefixed.scss"
+    },
+    {
+      "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\Styles\\toastr.min.css",
+      "PackagePath": "staticwebassets\\Styles\\toastr.min.css"
     },
     {
       "Id": "D:\\MVC - PROJECT\\LabZeroOne\\LabZeroOne\\wwwroot\\css\\CustomCss.css",

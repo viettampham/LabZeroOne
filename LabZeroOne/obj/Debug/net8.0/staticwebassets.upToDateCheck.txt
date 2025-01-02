@@ -61,6 +61,7 @@ wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
 wwwroot\Scripts\jquery-3.7.1.min.js
+wwwroot\Scripts\toastr.min.js
 wwwroot\Styles\bulma\bulma.scss
 wwwroot\Styles\bulma\css\bulma.css
 wwwroot\Styles\bulma\css\bulma.css.map
@@ -157,3 +158,4 @@ wwwroot\Styles\bulma\versions\bulma-no-dark-mode.scss
 wwwroot\Styles\bulma\versions\bulma-no-helpers.scss
 wwwroot\Styles\bulma\versions\bulma-no-helpers-prefixed.scss
 wwwroot\Styles\bulma\versions\bulma-prefixed.scss
+wwwroot\Styles\toastr.min.css

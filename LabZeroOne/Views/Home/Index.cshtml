@@ -1,3 +1,21 @@
-﻿
+﻿<script src="~/scripts/jquery-3.7.1.min.js"></script>
+<script src="~/scripts/toastr.min.js"></script>
+<link href="~/styles/toastr.min.css" rel="stylesheet" />
+<body>
 
+    <button onclick="showSuccess()">Hiển thị thông báo thành công</button>
+    <button onclick="showError()">Hiển thị thông báo lỗi</button>
 
+    <script>
+        // Thông báo thành công
+        function showSuccess() {
+            toastr.success("Đây là thông báo thành công!", "Thành công", {timeOut: 3000});
+        }
+
+        // Thông báo lỗi
+        function showError() {
+            toastr.error("Đã có lỗi xảy ra!", "Lỗi", {timeOut: 3000});
+        }
+    </script>
+
+</body>

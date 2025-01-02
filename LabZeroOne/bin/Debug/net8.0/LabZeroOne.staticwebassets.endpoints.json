@@ -249,6 +249,88 @@
       ]
     },
     {
+      "Route": "Scripts/toastr.min.js",
+      "AssetFile": "Scripts/toastr.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hgwq1OBpJ276HUP9H3VJkSv9ZCGRGQN+JldPJ8pNcUM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 16 Jun 2018 03:54:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hgwq1OBpJ276HUP9H3VJkSv9ZCGRGQN+JldPJ8pNcUM="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/toastr.min.uhmk5snb2d.js",
+      "AssetFile": "Scripts/toastr.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hgwq1OBpJ276HUP9H3VJkSv9ZCGRGQN+JldPJ8pNcUM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 16 Jun 2018 03:54:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uhmk5snb2d"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hgwq1OBpJ276HUP9H3VJkSv9ZCGRGQN+JldPJ8pNcUM="
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/toastr.min.js"
+        }
+      ]
+    },
+    {
       "Route": "Styles/bulma/LICENSE",
       "AssetFile": "Styles/bulma/LICENSE",
       "Selectors": [],
@@ -8117,6 +8199,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-R9z2eOCunsdkMzsOE6hYXMKjh8Cmqn3BaRcZiIkQhxQ="
+        }
+      ]
+    },
+    {
+      "Route": "Styles/toastr.min.css",
+      "AssetFile": "Styles/toastr.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R91pD48xW+oHbpJYGn5xR0Q7tMhH4xOrWn1QqMRINtA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 16 Jun 2018 03:54:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R91pD48xW+oHbpJYGn5xR0Q7tMhH4xOrWn1QqMRINtA="
+        }
+      ]
+    },
+    {
+      "Route": "Styles/toastr.min.fuwkiubrsj.css",
+      "AssetFile": "Styles/toastr.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R91pD48xW+oHbpJYGn5xR0Q7tMhH4xOrWn1QqMRINtA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 16 Jun 2018 03:54:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fuwkiubrsj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R91pD48xW+oHbpJYGn5xR0Q7tMhH4xOrWn1QqMRINtA="
+        },
+        {
+          "Name": "label",
+          "Value": "Styles/toastr.min.css"
         }
       ]
     },

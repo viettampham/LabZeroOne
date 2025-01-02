@@ -768,6 +768,18 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xowj75vshv"},{"Name":"integrity","Value":"sha256-v0i6w\u002BudnvWn9cBpdSAOCN6C2t48t9T7B2sZ/3xCpIQ="},{"Name":"label","Value":"_content/LabZeroOne/Scripts/jquery-3.7.1.min.js"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"105298"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022v0i6w\u002BudnvWn9cBpdSAOCN6C2t48t9T7B2sZ/3xCpIQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 31 Dec 2024 04:55:50 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/LabZeroOne/Scripts/toastr.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Scripts\toastr.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Hgwq1OBpJ276HUP9H3VJkSv9ZCGRGQN\u002BJldPJ8pNcUM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5251"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Hgwq1OBpJ276HUP9H3VJkSv9ZCGRGQN\u002BJldPJ8pNcUM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Jun 2018 03:54:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/LabZeroOne/Scripts/toastr.min.uhmk5snb2d.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Scripts\toastr.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uhmk5snb2d"},{"Name":"integrity","Value":"sha256-Hgwq1OBpJ276HUP9H3VJkSv9ZCGRGQN\u002BJldPJ8pNcUM="},{"Name":"label","Value":"_content/LabZeroOne/Scripts/toastr.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5251"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Hgwq1OBpJ276HUP9H3VJkSv9ZCGRGQN\u002BJldPJ8pNcUM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Jun 2018 03:54:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/LabZeroOne/Styles/bulma/bulma.qvgqohjmzl.scss">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Styles\bulma\bulma.scss'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -1919,6 +1931,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-R9z2eOCunsdkMzsOE6hYXMKjh8Cmqn3BaRcZiIkQhxQ="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"133"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022R9z2eOCunsdkMzsOE6hYXMKjh8Cmqn3BaRcZiIkQhxQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 25 Jul 2024 09:59:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/LabZeroOne/Styles/toastr.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Styles\toastr.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-R91pD48xW\u002BoHbpJYGn5xR0Q7tMhH4xOrWn1QqMRINtA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6454"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022R91pD48xW\u002BoHbpJYGn5xR0Q7tMhH4xOrWn1QqMRINtA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Jun 2018 03:54:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/LabZeroOne/Styles/toastr.min.fuwkiubrsj.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Styles\toastr.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fuwkiubrsj"},{"Name":"integrity","Value":"sha256-R91pD48xW\u002BoHbpJYGn5xR0Q7tMhH4xOrWn1QqMRINtA="},{"Name":"label","Value":"_content/LabZeroOne/Styles/toastr.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6454"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022R91pD48xW\u002BoHbpJYGn5xR0Q7tMhH4xOrWn1QqMRINtA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Jun 2018 03:54:40 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

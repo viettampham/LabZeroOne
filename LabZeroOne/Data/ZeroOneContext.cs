@@ -21,6 +21,7 @@ public partial class ZeroOneContext : DbContext
 
     public virtual DbSet<User> Users { get; set; }
 
+    
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Notion>(entity =>
@@ -53,7 +54,7 @@ public partial class ZeroOneContext : DbContext
             entity.ToTable("User");
 
             entity.Property(e => e.Email).HasMaxLength(50);
-            entity.Property(e => e.Password).HasMaxLength(50);
+            entity.Property(e => e.Password).HasMaxLength(255);
             entity.Property(e => e.PhoneNumber).HasMaxLength(15);
             entity.Property(e => e.UserName).HasMaxLength(50);
         });
